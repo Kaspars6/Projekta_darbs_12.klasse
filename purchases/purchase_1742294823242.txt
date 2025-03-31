@@ -1,0 +1,5 @@
+Purchase Date: Tue Mar 18 12:47:03 EET 2025
+Items:
+Bread - 1 x $1.25 = $1.25
+Orange - 1 x $0.79 = $0.79
+Total: $2.04

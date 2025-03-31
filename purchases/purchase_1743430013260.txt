@@ -1,0 +1,5 @@
+Purchase Date: Mon Mar 31 17:06:53 EEST 2025
+Items:
+Cheese - 2 x $2.50 = $5.00
+Orange - 1 x $0.79 = $0.79
+Total: $5.79

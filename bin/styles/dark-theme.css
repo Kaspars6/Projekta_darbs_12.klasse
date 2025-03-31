@@ -1,0 +1,21 @@
+.root {
+	-fx-base: #2b2b2b;
+	-fx-background: #2b2b2b;
+	-fx-background-color: #2b2b2b;
+	-fx-text-fill: #ffffff;
+}
+.button {
+	-fx-background: #444;
+	-fx-background-color: #444;
+	-fx-text-fill: #ffffff;
+}
+.text-field {
+	-fx-background: #333;
+	-fx-background-color: #333;
+	-fx-text-fill: #ffffff;
+}
+.list-view {
+	-fx-background: #222;
+	-fx-background-color: #222;
+	-fx-text-fill: #ffffff;
+}

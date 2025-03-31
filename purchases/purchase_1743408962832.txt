@@ -1,0 +1,4 @@
+Purchase Date: Mon Mar 31 11:16:02 EEST 2025
+Items:
+Cheese - 5 x $2.50 = $12.50
+Total: $12.50

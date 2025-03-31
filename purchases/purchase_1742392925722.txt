@@ -1,0 +1,4 @@
+Purchase Date: Wed Mar 19 16:02:05 EET 2025
+Items:
+Bread - 1 x $1.25 = $1.25
+Total: $1.25

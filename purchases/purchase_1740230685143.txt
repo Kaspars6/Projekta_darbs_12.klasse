@@ -1,0 +1,4 @@
+Purchase Date: Sat Feb 22 13:24:45 GMT 2025
+Items:
+Milk - 1 x $1.50 = $1.50
+Total: $1.50

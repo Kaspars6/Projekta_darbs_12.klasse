@@ -1,0 +1,5 @@
+Purchase Date: Mon Mar 31 17:28:15 EEST 2025
+Items:
+Orange - 1 x $0.79 = $0.79
+Milk - 2 x $1.50 = $3.00
+Total: $3.79

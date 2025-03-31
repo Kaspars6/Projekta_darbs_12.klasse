@@ -1,0 +1,5 @@
+Purchase Date: Sat Feb 22 13:23:16 GMT 2025
+Items:
+Eggs - 1 x $2.00 = $2.00
+Cheese - 1 x $2.50 = $2.50
+Total: $4.50
