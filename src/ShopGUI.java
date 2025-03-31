@@ -184,13 +184,13 @@ public class ShopGUI extends Application {
         themeToggleButton.setGraphic(icon);
     }
 
-    // ✅ **Fix: Added the missing `updateCartDisplay()` method**
+    
     private void updateCartDisplay() {
         cartListView.setItems(FXCollections.observableArrayList(shoppingCart.getCartContents()));
         totalCostLabel.setText(resourceBundle.getString("totalLabel") + " $" + String.format("%.2f", shoppingCart.calculateTotal()));
     }
 
-    // ✅ **Fix: Added the missing `showAlert()` method**
+    
     private void showAlert(String title, String message) {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle(title);
